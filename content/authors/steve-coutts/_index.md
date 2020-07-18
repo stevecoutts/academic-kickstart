@@ -1,7 +1,12 @@
 ---
 title: Steve Coutts
-avatar_filename: avatar
+role: smart cities, data + digital infrastructure researcher
+avatar_filename: steve-headshot.jpg
 bio: I'm a smart cities, data + digital infrastructure researcher based in Montreal.
+social:
+  - link: https://twitter.com/Steve_JCoutts
+    icon_pack: fab
+    icon: ":twitter:"
 organizations:
   - name: Open North
     url: www.opennorth.ca
