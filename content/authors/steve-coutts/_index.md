@@ -14,7 +14,7 @@ education:
   courses:
     - course: Master of Planning in Urban Development
       institution: Ryerson University
-      year: 2007
+      year: 2018
     - course: BA (Honours) in Geography
       institution: University of Winnipeg
       year: 2016
